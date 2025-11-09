@@ -8,3 +8,6 @@ This script prints a message depending on the number of arguments passed to it:
 
 3 value Argument
 This script prints the **first argument** passed to it. 
+
+4-concat arguments
+This script prints **two arguments** passed to it in the format:
