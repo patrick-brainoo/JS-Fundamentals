@@ -46,3 +46,9 @@ This script prints the sum of **two integers** passed as command-line arguments.
 
 - If one or both arguments are missing → prints `NaN`  
 - If both arguments are integers → prints their sum  
+
+project 10
+This script computes the **factorial** of a number passed as the first argument:
+
+- If the argument is missing or not a number → prints `1`  
+- Uses a **recursive function** to compute the factorial 
