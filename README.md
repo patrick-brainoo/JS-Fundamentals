@@ -40,3 +40,9 @@ This script prints a square using the character `X` based on the **first argumen
 
 - If the argument is missing or not a number → prints "Missing size"  
 - If the argument is a positive number → prints a square of size n × n
+
+project 9
+This script prints the sum of **two integers** passed as command-line arguments.  
+
+- If one or both arguments are missing → prints `NaN`  
+- If both arguments are integers → prints their sum  
