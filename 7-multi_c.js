@@ -1,5 +1,5 @@
 //Convert first argument to integer
-const x = parseInt(ProcessingInstruction.argv[2], 10);
+const x = parseInt(process.argv[2], 10);
 
 //Only print if x is a positive number
 if (x > 0) {
