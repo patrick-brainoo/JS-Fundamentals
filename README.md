@@ -11,3 +11,10 @@ This script prints the **first argument** passed to it.
 
 4-concat arguments
 This script prints **two arguments** passed to it in the format:
+
+5-to_integer
+
+This script prints the **first argument converted to an integer** if possible.  
+
+- If it can’t be converted → prints "Not a number"  
+- If it can be converted → prints "My number: <integer>"
