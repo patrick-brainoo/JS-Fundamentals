@@ -27,3 +27,9 @@ This script prints three lines using an **array of strings** and a **loop**:
 - JavaScript is amazing  
 
 It uses only one console.log statement inside the loop.
+
+project 7
+This script prints "C is fun" a number of times based on the **first argument** passed:
+
+- If the argument is not a number or missing → prints "Missing number of occurrences"  
+- If the argument is a positive number → prints "C is fun" that many times
