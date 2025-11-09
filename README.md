@@ -33,3 +33,10 @@ This script prints "C is fun" a number of times based on the **first argument** 
 
 - If the argument is not a number or missing → prints "Missing number of occurrences"  
 - If the argument is a positive number → prints "C is fun" that many times
+
+project 8
+
+This script prints a square using the character `X` based on the **first argument**:
+
+- If the argument is missing or not a number → prints "Missing size"  
+- If the argument is a positive number → prints a square of size n × n
