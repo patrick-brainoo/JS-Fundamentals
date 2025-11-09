@@ -18,3 +18,12 @@ This script prints the **first argument converted to an integer** if possible.
 
 - If it can’t be converted → prints "Not a number"  
 - If it can be converted → prints "My number: <integer>"
+
+6 multi languages
+This script prints three lines using an **array of strings** and a **loop**:
+
+- C is fun  
+- Python is cool  
+- JavaScript is amazing  
+
+It uses only one console.log statement inside the loop.
