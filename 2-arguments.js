@@ -1,4 +1,4 @@
-const args = ProcessingInstruction.argv.slice(2); // Get arguments passed after the script
+const args = ProcessingInstruction.argv.slice(2); 
 
 if (args.length === 0) {
     console.log("No argument");
